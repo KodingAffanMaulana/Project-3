@@ -1,4 +1,6 @@
-const Nav = () => {
+import React from 'react';
+
+const Nav: React.FC = () => {
   return (
     <header className="l-header">
       <nav className="nav bd-grid">
@@ -23,7 +25,7 @@ const Nav = () => {
         </div>
       </nav>
     </header>
-  )
+  );
 }
 
-export default Nav
+export default Nav;

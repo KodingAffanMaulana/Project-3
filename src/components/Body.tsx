@@ -1,6 +1,7 @@
-import Contact from "./Contact"
+import React from 'react';
+import Contact from './Contact';
 
-const Body = () => {
+const Body: React.FC = () => {
   return (
     <main>
       <section className="home bd-grid" id="home">
