@@ -28,7 +28,7 @@ const Body: React.FC = () => {
         </div>
 
         <div id="container_home__img">
-          <img className="home__img" src="../src/assets/img/profile.png" />
+          <img className="home__img" src="/assets/img/profile.png" />
         </div>
       </section>
 
@@ -37,7 +37,7 @@ const Body: React.FC = () => {
 
         <div className="about__container bd-grid">
           <div className="about__img">
-            <img src="../src/assets/img/about.jpg" alt="" />
+            <img src="/assets/img/about.jpg" alt="" />
           </div>
 
           <div>
@@ -111,7 +111,7 @@ const Body: React.FC = () => {
         <div className="cards-container">
           <article className="card">
             <div className="image-container">
-              <img src="../src/assets/img/unila.jpeg" alt="unila" />
+              <img src="/assets/img/unila.jpeg" alt="unila" />
             </div>
             <h2>Universitas Lampung</h2>
             <p className="detail_edu">Teknik Informatika</p>
@@ -121,7 +121,7 @@ const Body: React.FC = () => {
           <br />
           <article className="card">
             <div className="image-container">
-              <img src="../src/assets/img/sma.jpeg" alt="sma" />
+              <img src="/assets/img/sma.jpeg" alt="sma" />
             </div>
             <h2>SMA YP UNILA</h2>
             <p className="detail_edu">MIPA</p>
@@ -131,7 +131,7 @@ const Body: React.FC = () => {
           <br />
           <article className="card">
             <div className="image-container">
-              <img src="../src/assets/img/smp.jpg" alt="smp" />
+              <img src="/assets/img/smp.jpg" alt="smp" />
             </div>
             <h2>SMPN 02 Penawartama</h2>
             <p className="detail_edu">IPA</p>
@@ -141,7 +141,7 @@ const Body: React.FC = () => {
           <br />
           <article className="card">
             <div className="image-container">
-              <img src="../src/assets/img/sd.jpeg" alt="sd" />
+              <img src="/assets/img/sd.jpeg" alt="sd" />
             </div>
             <h2>SDN 01 Bogatama</h2>
             <p className="detail_edu">2008 - 2014</p>
@@ -198,7 +198,7 @@ const Body: React.FC = () => {
           </div>
 
           <div>
-            <img src="../src/assets/img/work2.png" alt="" className="skills__img" />
+            <img src="/assets/img/work2.png" alt="" className="skills__img" />
           </div>
         </div>
       </section>
@@ -207,7 +207,7 @@ const Body: React.FC = () => {
         <h2 className="section-title">Projects</h2>
         <div className="projects-container">
           <div className="project-card">
-            <img src="../src/assets/img/andalas.png" alt="MERN E-Commerce Andalas Books" />
+            <img src="/assets/img/andalas.png" alt="MERN E-Commerce Andalas Books" />
             <div className="project-info">
               <h2>MERN E-Commerce Andalas Books</h2>
               <p>
@@ -220,7 +220,7 @@ const Body: React.FC = () => {
             </div>
           </div>
           <div className="project-card">
-            <img src="../src/assets/img/JCC.png" alt="Jabar Coding Camp Revamp v2" />
+            <img src="/assets/img/JCC.png" alt="Jabar Coding Camp Revamp v2" />
             <div className="project-info">
               <h2>Jabar Coding Camp Revamp v2</h2>
               <p>
@@ -233,7 +233,7 @@ const Body: React.FC = () => {
             </div>
           </div>
           <div className="project-card">
-            <img src="../src/assets/img/tokplay.png" alt="Tokoplay Affan" />
+            <img src="/assets/img/tokplay.png" alt="Tokoplay Affan" />
             <div className="project-info">
               <h2>Tokoplay Affan</h2>
               <p>
@@ -248,7 +248,7 @@ const Body: React.FC = () => {
             </div>
           </div>
           <div className="project-card">
-            <img src="../src/assets/img/spotifyfan.png" alt="Spotify Clone" />
+            <img src="/assets/img/spotifyfan.png" alt="Spotify Clone" />
             <div className="project-info">
               <h2>Spotify Clone</h2>
               <p>
@@ -264,7 +264,7 @@ const Body: React.FC = () => {
             </div>
           </div>
           <div className="project-card">
-            <img src="../src/assets/img/marketplacecrown.png" alt="Ecommerce React Crown" />
+            <img src="/assets/img/marketplacecrown.png" alt="Ecommerce React Crown" />
             <div className="project-info">
               <h2>Ecommerce React Crown</h2>
               <p>Capstone project course udemy ZhangMYihua/crwn-clothing-v2:lesson-1.</p>
@@ -275,7 +275,7 @@ const Body: React.FC = () => {
             </div>
           </div>
           <div className="project-card">
-            <img src="../src/assets/img/fanyugioh.png" alt="FanYugiOh! Website" />
+            <img src="/assets/img/fanyugioh.png" alt="FanYugiOh! Website" />
             <div className="project-info">
               <h2>FanYugiOh! Website</h2>
               <p>Fan-made Yu-Gi-Oh! website</p>
