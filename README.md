@@ -57,11 +57,11 @@ Follow these steps to set up the project on your local machine:
 - Project showcase
 - Contact form
 
-## Screenshots
+<!-- ## Screenshots
 
 ### Home Page
 
-![Home Page](/assets/docs/home.png)
+![Home Page](../../../assets/docs/home.png)
 
 ### About Section
 
@@ -85,7 +85,7 @@ Follow these steps to set up the project on your local machine:
 
 ### Contact Form
 
-![Contact Form](/assets/docs/contact.png)
+![Contact Form](/assets/docs/contact.png) -->
 
 ## Contributing
 
